@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-legacy-blueprints",
+  "name": "ember-cli-custom-blueprints",
   "version": "0.1.4",
   "description": "The default blueprint for ember-cli addons.",
   "files": [
